@@ -1,0 +1,5 @@
+{
+  "place": "none",
+  "title": "Pane picker",
+  "overlay": { "kind": "dialog", "width": 460 }
+}
